@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/iTweenPathEditor.cs">
+    <Files>
+      <File FileName="Assets/LookAtMouse.cs" Line="20" Column="45" />
+      <File FileName="Assets/Cannon.js" Line="23" Column="58" />
+      <File FileName="Assets/LookAtMouse.js" Line="31" Column="107" />
+      <File FileName="Assets/iTween/Plugins/iTween.cs" Line="1" Column="1" />
+      <File FileName="Assets/iTween/ReadMe!/ReadMe!.txt" Line="1" Column="1" />
+      <File FileName="Assets/iTweenPathEditor.cs" Line="27" Column="39" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" Line="193" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
